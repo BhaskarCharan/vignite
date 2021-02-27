@@ -8,7 +8,6 @@ we create a sign detector, which detects sign language. This can be very helpful
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
 
 HTML
 CSS
